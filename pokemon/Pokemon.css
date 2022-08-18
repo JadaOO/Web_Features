@@ -1,0 +1,12 @@
+div {
+  display: inline-block;
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+}
+
+div img {
+  display: block;
+}

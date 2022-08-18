@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  font-size: 70px;
+  text-align: center;
+  position: relative;
+}
+
+button {
+  padding: 40px;
+  position: absolute;
+  top: 200px;
+  left: 540px;
+  font-size: 30px;
+  border-color: aliceblue;
+  outline: none;
+  background-color: aliceblue;
+}
+
+button:hover,
+button:active {
+  transform: translateY(5px);
+  background-color: rgb(253, 253, 253);
+  border-color: none;
+  box-shadow: 0px 0px 5px rgb(162, 162, 162);
+  outline: none;
+}
